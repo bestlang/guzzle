@@ -55,5 +55,8 @@
         "psr-4": {
             "GuzzleHttp\\Tests\\": "tests/"
         }
+    },
+    "replace": {
+        "guzzlehttp/guzzle": ">6.0 < 7.0"
     }
 }
